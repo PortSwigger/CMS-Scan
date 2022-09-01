@@ -1,0 +1,12 @@
+Uuid: 1bf95d0be40c447b94981f5696b1a18e
+ExtensionType: 1
+Name: CMS Scanner
+RepoName: cms-scan
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: Nicolas DaLomba
+ShortDescription: Scan for common vulnerabilities in popular CMS.
+EntryPoint: ./build/libs/cms-scan.jar
+BuildCommand: gradle jar
